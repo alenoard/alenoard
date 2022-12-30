@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alenoard
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, express, mongodb, mongoose
-
+- 🌱 I’m currently learning javascript, express, mongodb
 
 
 
